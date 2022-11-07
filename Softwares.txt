@@ -1,0 +1,11 @@
+List of softwares and libraries:
+
+1. Xampp
+2. Sublime
+3. Python
+4. Tensorflow
+5. numpy
+6. matplotlib
+7. cv2
+8. pillow
+9. pandas

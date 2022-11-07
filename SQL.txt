@@ -1,0 +1,2 @@
+Use the below URL to add the database:
+http://localhost/phpmyadmin/server_import.php
